@@ -1,0 +1,9 @@
+time,sensor,rssi,y,z,heading4,heading5,heading6,file,phone_carriage_state,TXDevice,TXCarry,TXPose,TXPower,RXDevice,RXCarry,RXPose,distance_in_meters,step_size_in_sec,coarse_grain
+time,sensor,ax,ay,az,heading4,heading5,heading6,file,phone_carriage_state,TXDevice,TXCarry,TXPose,TXPower,RXDevice,RXCarry,RXPose,distance_in_meters,step_size_in_sec,coarse_grain
+time,sensor,gx,gy,gz,heading4,heading5,heading6,file,phone_carriage_state,TXDevice,TXCarry,TXPose,TXPower,RXDevice,RXCarry,RXPose,distance_in_meters,step_size_in_sec,coarse_grain
+time,sensor,pitch,roll,yaw,heading4,heading5,heading6,file,phone_carriage_state,TXDevice,TXCarry,TXPose,TXPower,RXDevice,RXCarry,RXPose,distance_in_meters,step_size_in_sec,coarse_grain
+time,sensor,x,y,z,heading4,heading5,heading6,file,phone_carriage_state,TXDevice,TXCarry,TXPose,TXPower,RXDevice,RXCarry,RXPose,distance_in_meters,step_size_in_sec,coarse_grain
+time,sensor,x,y,z,heading4,heading5,heading6,file,phone_carriage_state,TXDevice,TXCarry,TXPose,TXPower,RXDevice,RXCarry,RXPose,distance_in_meters,step_size_in_sec,coarse_grain
+time,sensor,x,y,z,heading4,heading5,heading6,file,phone_carriage_state,TXDevice,TXCarry,TXPose,TXPower,RXDevice,RXCarry,RXPose,distance_in_meters,step_size_in_sec,coarse_grain
+time,sensor,start_time,activity_type,confidence_level,heading4,heading5,heading6,file,phone_carriage_state,TXDevice,TXCarry,TXPose,TXPower,RXDevice,RXCarry,RXPose,distance_in_meters,step_size_in_sec,coarse_grain
+time,sensor,true_heading,magnetic_heading,heading_accuracy,x,y,z,file,phone_carriage_state,TXDevice,TXCarry,TXPose,TXPower,RXDevice,RXCarry,RXPose,distance_in_meters,step_size_in_sec,coarse_grain

@@ -1,0 +1,9 @@
+dbs/bluetooth.csv
+dbs/accelerometer.csv
+dbs/gyroscope.csv
+dbs/attitude.csv
+dbs/gravity.csv
+dbs/magnetic-field.csv
+dbs/altitude.csv
+dbs/activity.csv
+dbs/heading.csv
